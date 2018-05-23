@@ -1,0 +1,14 @@
+{
+    "folders":
+    [
+        {
+            "path": ".",
+            "file_include_patterns": ["*.tex", "*.cls", "*.sty", "*.md", "*.sublime-project"]
+        }
+    ],
+    "settings":
+    {
+        "TEXroot": "cv.tex"
+        // "TEXroot": "resume.tex"
+    }
+}
